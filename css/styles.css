@@ -25,7 +25,7 @@ body {
 }
 
 #header .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: blue;
 }
 
 #header nav a {
@@ -36,7 +36,7 @@ body {
 }
 
 #header nav a:hover, #header nav a.active {
-    background-color: rgba(84, 209, 84, 0.3);
+    background-color: rgba(97, 84, 209, 0.3);
 }
 
 #header h1 {
