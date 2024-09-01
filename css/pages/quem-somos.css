@@ -1,10 +1,11 @@
 @import url('../styles.css');
 
 #header.page-quem-somos {
-    background-image: url("../../images/background-quem-somos.jpg") ;
+    background-image: url("../../images/background-quem-somos.jpg");
 }
 
-#intro h2, #valores h2 {
+#intro h2,
+#valores h2 {
     font-size: 20px;
 }
 
